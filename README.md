@@ -1,38 +1,29 @@
 ## 👋 Welcome to My GitHub
 
-<table>
-<tr>
-<td>
+<img align="right" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="250" alt="Coding" />
 
-**Hi, I'm Moataz Ibrahim** — a Frontend Developer passionate about building interactive, high-performance web applications.
+**Hi, I'm Moataz Ibrahim** — a Frontend Developer passionate about crafting modern, high-performance web experiences.
 
-✔️ Specialized in crafting responsive, user-friendly interfaces with **Angular**, **React**, and modern technologies.  
-🚀 Currently sharpening my skills in **Next.js** and exploring advanced UI/UX practices.  
-📫 Feel free to reach out anytime via:
+- 💻 I specialize in building responsive, user-friendly interfaces with **React**, **Angular**, and **modern UI technologies**.
+- 🚀 Currently exploring **Next.js** and advanced frontend techniques.
+- 📬 You can connect with me anytime:
 
-<p align="left">
+<p>
   <a href="mailto:moataz.ibrahim.gaber@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="28" alt="Email" />
-  </a>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="26" alt="Email" />
+  </a>&nbsp;&nbsp;
   <a href="https://wa.me/201104712048" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="28" alt="WhatsApp" />
-  </a>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-original.svg" width="26" alt="WhatsApp" />
+  </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/moataz-ibrahim-ali" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="28" alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="26" alt="LinkedIn" />
   </a>
 </p>
-
-</td>
-<td>
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Coding Animation" />
-</td>
-</tr>
-</table>
 
 ---
 
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,tailwind,bootstrap,github,vscode,postman" alt="Tech Stack" width="90%" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nextjs,tailwind,bootstrap,github,vscode,postman" alt="Tech Stack" />
 </p>
