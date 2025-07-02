@@ -13,7 +13,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="26" alt="Email" />
   </a>&nbsp;&nbsp;
   <a href="https://wa.me/201104712048" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-original.svg" width="26" alt="WhatsApp" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="26" alt="WhatsApp" />
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/moataz-ibrahim-ali" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="26" alt="LinkedIn" />
